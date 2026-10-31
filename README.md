@@ -8,7 +8,7 @@
 
 ## 1. Project Description
 
-**NovaStore** is a responsive e-commerce web application built using **React** and **Redux**.  
+**DZELECTRO store** is a responsive e-commerce web application built using **React** and **Redux**.  
 It allows users to:
 - Browse a catalog of modern tech and lifestyle products.
 - Filter products dynamically by category (All, Electronics, Audio, Accessories, Wearables).
