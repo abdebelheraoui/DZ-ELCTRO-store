@@ -2,6 +2,8 @@
 
 **Course:** Practical Work 2 (TP2) - React & State Management  
 **Student Project**  BELHERAOUI ABDERRAHMANNE
+
+
 **Technology Stack:** React 19, Redux, React-Redux, Vite, Vanilla CSS  
 
 ---
