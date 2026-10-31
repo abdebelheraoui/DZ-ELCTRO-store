@@ -1,7 +1,7 @@
 # TP2 React & Redux - NovaStore E-Commerce Application
 
 **Course:** Practical Work 2 (TP2) - React & State Management  
-**Student Project**  
+**Student Project**  BELHERAOUI ABDERRAHMANNE
 **Technology Stack:** React 19, Redux, React-Redux, Vite, Vanilla CSS  
 
 ---
